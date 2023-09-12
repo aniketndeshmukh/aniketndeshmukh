@@ -1,7 +1,7 @@
 Hi there 👋
     My Name is Aniket Deshmukh and I am a Java Full Stack software Developer.
 
-Skills : Java,Python,J2EE,Spring Boot,Hibernate,PHP,JAVASCRIPT,HTMl,CSS,BOOTSTARP,TAILWAIND CSS,REACT,MYSQL.
+Skills : Java, Python, J2EE, Spring Boot, Hibernate, PHP, JAVASCRIPT, HTMl, CSS, BOOTSTARP, TAILWAIND CSS, REACT, MYSQL.
 
 
 - 🔭 I’m currently working on Java,J2ee,Spring Boot,Hibernate,React Js.
